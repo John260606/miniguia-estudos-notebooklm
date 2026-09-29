@@ -12,8 +12,10 @@ Segue vídeos utilizados nas fontes:
 - https://youtu.be/j2SrFRlxQMk?si=NzMdxkUVcAKzRlPO
 
 
-Algumas perguntas feitas para o modelo:
-De que forma virtudes como fortaleza e temperança impactam no sucesso profissional?
+## Algumas perguntas feitas para o modelo:
+
+### De que forma virtudes como fortaleza e temperança impactam no sucesso profissional?
+
 ### 1\. **Temperança: Autocontrole e Clareza na Tomada de Decisão**
 
 * **Domínio dos impulsos e foco**: A **temperança** é definida como a virtude do **autocontrole**, que torna o indivíduo senhor de suas próprias paixões e inclinações imediatas.
@@ -29,13 +31,13 @@ De que forma virtudes como fortaleza e temperança impactam no sucesso profissio
 * **Resiliência e perseverança**: A fortaleza sustenta a resiliência exigida no mercado, permitindo que empreendedores e trabalhadores persistam em tarefas complexas, aprendam com os erros e mantenham o empenho em metas de longo prazo.
 
 ---
+### Como a virtude ajuda a lidar com o estresse e crises?
 
-Nas fontes do seu caderno, a virtude é apresentada como o alicerce para enfrentar o estresse, as pressões e as crises, pois ela proporciona estabilidade interior e o domínio racional sobre as reações emocionais[1][2].
+Nas fontes do seu caderno, a virtude é apresentada como o alicerce para enfrentar o estresse, as pressões e as crises, pois ela proporciona estabilidade interior e o domínio racional sobre as reações emocionais.
 
 Essa sustentação ocorre em quatro frentes principais:
 
 ---
-Como a virtude ajuda a lidar com o estresse e crises?
 
 ### 1\. **Senhorio das Paixões (Autocontrole e Temperança)**
 
@@ -69,7 +71,7 @@ Como a virtude ajuda a lidar com o estresse e crises?
 
 ---
 
-como descobrir o seu propósito?
+### como descobrir o seu propósito?
 
 Nas fontes do seu caderno, a descoberta do propósito de vida não é tratada como uma caça a um troféu externo ou um destino pronto, mas sim como um **processo de autoconhecimento, amadurecimento e serviço**.
 
