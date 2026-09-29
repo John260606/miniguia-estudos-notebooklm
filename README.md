@@ -1,4 +1,4 @@
-## Mini guia de estudos sobre Propósito, Vocação e Identidade
+# Mini guia de estudos sobre Propósito, Vocação e Identidade
 
 Um miniguia de estudos usando a ferramenta do google NotebookLM
 
